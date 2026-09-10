@@ -1,4 +1,4 @@
-# Clash DeFi 域名规则
+# Clash 区块链域名规则
 
 在 [defi.yaml](defi.yaml) 中维护需要走“区块链”分组的域名。
 
@@ -19,3 +19,5 @@ payload:
 https://raw.githubusercontent.com/feelgood3000/clash-defi-rules/main/defi.yaml
 
 仓库仅存放公开域名，不要加入节点密码、机场订阅令牌或私人订阅链接。此清单用于分流，不保证网站可访问。
+
+已包含 DeFi、主要交易所和 Bitget Wallet；按平台分段维护，具体收录范围见 [域名来源](docs/域名来源.md)。

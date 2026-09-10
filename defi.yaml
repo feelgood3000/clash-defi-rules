@@ -1,4 +1,4 @@
-# DeFi 域名规则：+.example.com 匹配该域名及所有子域名。
+# DeFi、交易所和钱包域名规则：+.example.com 匹配该域名及所有子域名。
 payload:
   - '+.uniswap.org'
   - '+.aave.com'
@@ -21,3 +21,100 @@ payload:
   - '+.polymarket.com'
   - '+.lighter.xyz'
   - '+.sun.io'
+
+  # 币安 / Binance
+  - '+.binance.com'
+  - '+.binance.us'
+  - '+.binance.vision'
+  - '+.bnbstatic.com'
+
+  # Bitget
+  - '+.bitget.com'
+  - '+.bitget.site'
+  - '+.bitgetapp.com'
+  - '+.bitgetapps.com'
+  - '+.img.bitgetimg.com'
+  - '+.img.bgstatic.com'
+  - '+.static.bgbstatic.com'
+
+  # Bitget Wallet / BitKeep
+  - '+.bitkeep.com'
+  - '+.bitkeep.io'
+  - '+.cdn.bitkeep.vip'
+  - '+.cdn.jjdsn.site'
+  - '+.bgw.live'
+
+  # Bybit
+  - '+.bybit.com'
+  - '+.bytick.com'
+  - '+.bycsi.com'
+  - '+.bybit-global.com'
+  - '+.bybitglobal.com'
+  - '+.bybit.nl'
+  - '+.bybit.tr'
+  - '+.bybit.kz'
+  - '+.bybitgeorgia.ge'
+  - '+.bybit.ae'
+  - '+.bybit.eu'
+
+  # 派网 / Pionex / Webot
+  - '+.pionex.com'
+  - '+.pionex.us'
+  - '+.webot.com'
+
+  # 欧易 / OKX
+  - '+.okx.com'
+  - '+.okex.com'
+  - '+.static.okx.ac'
+  - '+.static.okx.cab'
+  - '+.static.okx.reise'
+  - '+.static.coinall.ltd'
+  - '+.static.jingyunyilian.com'
+
+  # Coinbase
+  - '+.coinbase.com'
+
+  # Kraken
+  - '+.kraken.com'
+
+  # Gate
+  - '+.gate.com'
+  - '+.gate.io'
+  - '+.gateio.ws'
+  - '+.gateapi.io'
+
+  # KuCoin
+  - '+.kucoin.com'
+  - '+.kucoin.club'
+  - '+.kucoin.th'
+  - '+.kucoin.tr'
+  - '+.kucoinauth.cloud'
+  - '+.assets.staticimg.com'
+
+  # HTX / 火币
+  - '+.htx.com'
+  - '+.huobi.com'
+  - '+.huobi.pro'
+  - '+.hbg-prod-fed-public.hbfile.net'
+
+  # Bitfinex
+  - '+.bitfinex.com'
+
+  # MEXC
+  - '+.mexc.com'
+  - '+.images.mocortech.com'
+  - '+.static.mocortech.com'
+  - '+.static.corex-static.com'
+
+  # Crypto.com
+  - '+.crypto.com'
+
+  # Gemini
+  - '+.gemini.com'
+
+  # Bitstamp
+  - '+.bitstamp.net'
+
+  # CoinEx
+  - '+.coinex.com'
+  - '+.file.coinexstatic.com'
