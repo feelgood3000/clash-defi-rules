@@ -118,3 +118,8 @@ payload:
   # CoinEx
   - '+.coinex.com'
   - '+.file.coinexstatic.com'
+
+  # OneKey：官网、生产 API 与静态资源
+  - '+.onekey.so'
+  - '+.onekeycn.com'
+  - '+.onekey-asset.com'
